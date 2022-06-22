@@ -1,3 +1,4 @@
+@Regression
 Feature: Wiki Search Functionality
 
   @Wiki
