@@ -6,7 +6,16 @@
         "before": [
           {
             "result": {
-              "duration": 1782007360,
+              "duration": 2019315809,
+              "status": "passed"
+            },
+            "match": {
+              "location": "EtsySteps.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 10658510,
               "status": "passed"
             },
             "match": {
@@ -15,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 24237519,
+              "duration": 14738905,
               "status": "passed"
             },
             "match": {
@@ -24,7 +33,7 @@
           },
           {
             "result": {
-              "duration": 245534,
+              "duration": 203269,
               "status": "passed"
             },
             "match": {
@@ -33,7 +42,7 @@
           },
           {
             "result": {
-              "duration": 26685393,
+              "duration": 18440795,
               "status": "passed"
             },
             "match": {
@@ -48,7 +57,7 @@
         "after": [
           {
             "result": {
-              "duration": 3098148550,
+              "duration": 3195268879,
               "status": "passed"
             },
             "match": {
@@ -61,7 +70,7 @@
         "steps": [
           {
             "result": {
-              "duration": 838672070,
+              "duration": 1099591725,
               "status": "passed"
             },
             "line": 5,
@@ -79,7 +88,7 @@
           },
           {
             "result": {
-              "duration": 429888484,
+              "duration": 424789126,
               "status": "passed"
             },
             "line": 6,
@@ -97,7 +106,7 @@
           },
           {
             "result": {
-              "duration": 118759423,
+              "duration": 130198435,
               "status": "passed"
             },
             "line": 7,
@@ -119,7 +128,7 @@
           },
           {
             "result": {
-              "duration": 201157426,
+              "duration": 181712019,
               "status": "passed"
             },
             "line": 8,
@@ -137,7 +146,7 @@
           },
           {
             "result": {
-              "duration": 30979433,
+              "duration": 20705751,
               "status": "passed"
             },
             "line": 9,
@@ -164,7 +173,16 @@
         "before": [
           {
             "result": {
-              "duration": 1150193567,
+              "duration": 1293647329,
+              "status": "passed"
+            },
+            "match": {
+              "location": "EtsySteps.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 167870,
               "status": "passed"
             },
             "match": {
@@ -173,7 +191,7 @@
           },
           {
             "result": {
-              "duration": 381913,
+              "duration": 367839,
               "status": "passed"
             },
             "match": {
@@ -182,7 +200,7 @@
           },
           {
             "result": {
-              "duration": 15775,
+              "duration": 15361,
               "status": "passed"
             },
             "match": {
@@ -191,7 +209,7 @@
           },
           {
             "result": {
-              "duration": 91120,
+              "duration": 84421,
               "status": "passed"
             },
             "match": {
@@ -206,7 +224,7 @@
         "after": [
           {
             "result": {
-              "duration": 3134534131,
+              "duration": 3182925622,
               "status": "passed"
             },
             "match": {
@@ -219,7 +237,7 @@
         "steps": [
           {
             "result": {
-              "duration": 959636325,
+              "duration": 1622025863,
               "status": "passed"
             },
             "line": 5,
@@ -237,7 +255,7 @@
           },
           {
             "result": {
-              "duration": 423976923,
+              "duration": 687465640,
               "status": "passed"
             },
             "line": 6,
@@ -255,7 +273,7 @@
           },
           {
             "result": {
-              "duration": 152998034,
+              "duration": 152677648,
               "status": "passed"
             },
             "line": 7,
@@ -277,7 +295,7 @@
           },
           {
             "result": {
-              "duration": 199553426,
+              "duration": 390868529,
               "status": "passed"
             },
             "line": 8,
@@ -295,7 +313,7 @@
           },
           {
             "result": {
-              "duration": 18793954,
+              "duration": 18765265,
               "status": "passed"
             },
             "line": 9,
@@ -322,7 +340,16 @@
         "before": [
           {
             "result": {
-              "duration": 1072428138,
+              "duration": 1304980140,
+              "status": "passed"
+            },
+            "match": {
+              "location": "EtsySteps.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 174083,
               "status": "passed"
             },
             "match": {
@@ -331,7 +358,7 @@
           },
           {
             "result": {
-              "duration": 382820,
+              "duration": 355240,
               "status": "passed"
             },
             "match": {
@@ -340,7 +367,7 @@
           },
           {
             "result": {
-              "duration": 17653,
+              "duration": 15358,
               "status": "passed"
             },
             "match": {
@@ -349,7 +376,7 @@
           },
           {
             "result": {
-              "duration": 71453,
+              "duration": 70507,
               "status": "passed"
             },
             "match": {
@@ -364,7 +391,7 @@
         "after": [
           {
             "result": {
-              "duration": 3120775068,
+              "duration": 3103707609,
               "status": "passed"
             },
             "match": {
@@ -377,7 +404,7 @@
         "steps": [
           {
             "result": {
-              "duration": 645163935,
+              "duration": 662965784,
               "status": "passed"
             },
             "line": 5,
@@ -395,7 +422,7 @@
           },
           {
             "result": {
-              "duration": 365882402,
+              "duration": 357714551,
               "status": "passed"
             },
             "line": 6,
@@ -413,7 +440,7 @@
           },
           {
             "result": {
-              "duration": 151834316,
+              "duration": 151468961,
               "status": "passed"
             },
             "line": 7,
@@ -435,7 +462,7 @@
           },
           {
             "result": {
-              "duration": 177951601,
+              "duration": 198495953,
               "status": "passed"
             },
             "line": 8,
@@ -453,7 +480,7 @@
           },
           {
             "result": {
-              "duration": 18154441,
+              "duration": 18794354,
               "status": "passed"
             },
             "line": 9,
@@ -480,7 +507,16 @@
         "before": [
           {
             "result": {
-              "duration": 1017566737,
+              "duration": 1340954093,
+              "status": "passed"
+            },
+            "match": {
+              "location": "EtsySteps.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 144385,
               "status": "passed"
             },
             "match": {
@@ -489,7 +525,7 @@
           },
           {
             "result": {
-              "duration": 439642,
+              "duration": 305440,
               "status": "passed"
             },
             "match": {
@@ -498,7 +534,7 @@
           },
           {
             "result": {
-              "duration": 17416,
+              "duration": 14229,
               "status": "passed"
             },
             "match": {
@@ -507,7 +543,7 @@
           },
           {
             "result": {
-              "duration": 106981,
+              "duration": 94025,
               "status": "passed"
             },
             "match": {
@@ -522,7 +558,7 @@
         "after": [
           {
             "result": {
-              "duration": 3142372909,
+              "duration": 3128832197,
               "status": "passed"
             },
             "match": {
@@ -535,7 +571,7 @@
         "steps": [
           {
             "result": {
-              "duration": 595025460,
+              "duration": 1255585135,
               "status": "passed"
             },
             "line": 5,
@@ -553,7 +589,7 @@
           },
           {
             "result": {
-              "duration": 353867125,
+              "duration": 409933928,
               "status": "passed"
             },
             "line": 6,
@@ -571,7 +607,7 @@
           },
           {
             "result": {
-              "duration": 150746093,
+              "duration": 153187259,
               "status": "passed"
             },
             "line": 7,
@@ -593,7 +629,7 @@
           },
           {
             "result": {
-              "duration": 171979777,
+              "duration": 193184950,
               "status": "passed"
             },
             "line": 8,
@@ -611,7 +647,7 @@
           },
           {
             "result": {
-              "duration": 19541422,
+              "duration": 18521188,
               "status": "passed"
             },
             "line": 9,
@@ -638,7 +674,16 @@
         "before": [
           {
             "result": {
-              "duration": 1044833128,
+              "duration": 1338783992,
+              "status": "passed"
+            },
+            "match": {
+              "location": "EtsySteps.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 136286,
               "status": "passed"
             },
             "match": {
@@ -647,7 +692,7 @@
           },
           {
             "result": {
-              "duration": 447805,
+              "duration": 302475,
               "status": "passed"
             },
             "match": {
@@ -656,7 +701,7 @@
           },
           {
             "result": {
-              "duration": 15853,
+              "duration": 14405,
               "status": "passed"
             },
             "match": {
@@ -665,7 +710,7 @@
           },
           {
             "result": {
-              "duration": 61522,
+              "duration": 59143,
               "status": "passed"
             },
             "match": {
@@ -680,7 +725,7 @@
         "after": [
           {
             "result": {
-              "duration": 3286192929,
+              "duration": 3160519323,
               "status": "passed"
             },
             "match": {
@@ -693,7 +738,7 @@
         "steps": [
           {
             "result": {
-              "duration": 668721043,
+              "duration": 888651061,
               "status": "passed"
             },
             "line": 5,
@@ -711,7 +756,7 @@
           },
           {
             "result": {
-              "duration": 400789625,
+              "duration": 405708808,
               "status": "passed"
             },
             "line": 6,
@@ -729,7 +774,7 @@
           },
           {
             "result": {
-              "duration": 150540950,
+              "duration": 153374426,
               "status": "passed"
             },
             "line": 7,
@@ -751,7 +796,7 @@
           },
           {
             "result": {
-              "duration": 173838458,
+              "duration": 180662691,
               "status": "passed"
             },
             "line": 8,
@@ -769,7 +814,7 @@
           },
           {
             "result": {
-              "duration": 19072539,
+              "duration": 18770969,
               "status": "passed"
             },
             "line": 9,

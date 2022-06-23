@@ -4,6 +4,7 @@
 /Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/utils/Waiter.java
 /Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/steps/WikipediaSteps.java
 /Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/utils/Driver.java
+/Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/pages/EtsyHomePage.java
 /Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/pages/GoogleSearchPage.java
 /Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/utils/ConfigReader.java
 /Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/utils/AlertHandler.java
@@ -12,4 +13,6 @@
 /Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/steps/Hooks.java
 /Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/steps/GoogleSteps.java
 /Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/utils/DropdownHandler.java
+/Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/steps/EtsySteps.java
 /Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/runners/Runner.java
+/Users/meldasav/IdeaProjects/cucumber_framework01/src/test/java/steps/RandomSteps.java

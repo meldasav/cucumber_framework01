@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
     @RunWith(Cucumber.class)
     @CucumberOptions(
             features = "src/test/resources/features",
-            glue = "steps",
+            glue = "steps",//our package name is steps that's why we are using steps here
             tags = "@Smoke",
             dryRun = false,
             monochrome = false,

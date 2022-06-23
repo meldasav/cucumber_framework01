@@ -105,6 +105,9 @@ formatter.before({
 formatter.before({
   "status": "passed"
 });
+formatter.before({
+  "status": "passed"
+});
 formatter.step({
   "name": "user navigates to \"http://the-internet.herokuapp.com/\"",
   "keyword": "Given "
@@ -167,6 +170,9 @@ formatter.scenario({
       "name": "@Smoke"
     }
   ]
+});
+formatter.before({
+  "status": "passed"
 });
 formatter.before({
   "status": "passed"
@@ -255,6 +261,9 @@ formatter.before({
 formatter.before({
   "status": "passed"
 });
+formatter.before({
+  "status": "passed"
+});
 formatter.step({
   "name": "user navigates to \"http://the-internet.herokuapp.com/\"",
   "keyword": "Given "
@@ -330,6 +339,9 @@ formatter.before({
 formatter.before({
   "status": "passed"
 });
+formatter.before({
+  "status": "passed"
+});
 formatter.step({
   "name": "user navigates to \"http://the-internet.herokuapp.com/\"",
   "keyword": "Given "
@@ -392,6 +404,9 @@ formatter.scenario({
       "name": "@Smoke"
     }
   ]
+});
+formatter.before({
+  "status": "passed"
 });
 formatter.before({
   "status": "passed"
