@@ -133,6 +133,7 @@ public class HeroAppSteps {
     public void user_enters_username_as_and_password_as(String username, String password) {
         heroAppPage.usernameInputBox.sendKeys(username);
         heroAppPage.passwordInputBox.sendKeys(password);
+
     }
 
     @Then("user should see a message starts with {string}")

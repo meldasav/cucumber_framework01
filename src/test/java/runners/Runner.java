@@ -7,7 +7,7 @@ import org.junit.runner.RunWith;
     @CucumberOptions(
             features = "src/test/resources/features",
             glue = "steps",//our package name is steps that's why we are using steps here
-            tags = "@temp",
+            tags = "@Regression",
             dryRun = false,
             monochrome = false,
             plugin = {"html:target/cucumber-reports",
