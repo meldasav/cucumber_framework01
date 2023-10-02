@@ -1,4 +1,10 @@
 -------------------------------------------------------------------------------
 Test set: runners.Runner
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 33.162 s - in runners.Runner
+Tests run: 7, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 107.644 s <<< FAILURE! - in runners.Runner
+Validate Wiki search(Wiki Search Functionality)  Time elapsed: 6.442 s  <<< FAILURE!
+java.lang.AssertionError
+
+Validate Wikipedia main languages(Wiki Search Functionality)  Time elapsed: 5.669 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Deutsch]> but was:<[Français]>
+
