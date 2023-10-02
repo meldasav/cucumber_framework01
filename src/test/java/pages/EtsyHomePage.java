@@ -13,6 +13,7 @@ public class EtsyHomePage {
     }
     //git stash
     //changes to stash
+    //git changes
 
     @FindBy(css = "ul[data-ui='top-nav-category-list'] a")
     public List<WebElement> mainNavigationItems;
