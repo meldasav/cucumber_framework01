@@ -9,6 +9,7 @@ public class GoogleSearchPage {
     public GoogleSearchPage() {
         PageFactory.initElements(Driver.getDriver(), this);
     }
+    //filiz
     @FindBy(name = "q")
     public WebElement searchInputBox;
 
