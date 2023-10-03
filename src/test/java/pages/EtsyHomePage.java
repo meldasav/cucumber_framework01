@@ -11,8 +11,6 @@ public class EtsyHomePage {
     public EtsyHomePage(){
         PageFactory.initElements(Driver.getDriver(), this);
     }
-    //changes
-    //added
 
     @FindBy(css = "ul[data-ui='top-nav-category-list'] a")
     public List<WebElement> mainNavigationItems;
