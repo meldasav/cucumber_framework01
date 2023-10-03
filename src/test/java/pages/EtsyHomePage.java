@@ -15,6 +15,7 @@ public class EtsyHomePage {
     //added
     //added 1
     //added 2
+    //added 3
 
     @FindBy(css = "ul[data-ui='top-nav-category-list'] a")
     public List<WebElement> mainNavigationItems;
